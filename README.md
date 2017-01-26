@@ -8,3 +8,5 @@ Gögn eru til af mörgum togum, til dæmis stafræn gögn, rafræn gögn, og ekki má gl
 Þegar mikið af gögnum ( oftast svipuð gögn ) eru geymd saman, eru þau orðin hluti af gagnasafni. Eins og minnst var á áðan, þá eru einhverjar upplýsingar um flestalla notendur veraldarvefsins einhvers staðar, í einhverju gagnasafni. . Ég veit, til dæmis, að stór hluti af fólkinu sem ég þekki, að mér meðtöldum, eru með fjöldann allan af persónuupplýsingum á vefum sem Facebook og Goggle til dæmis.
 
 Gagnasöfn eru skipulögð og haldin við með flóknum hugbúnaði, gagnasafnskerfum, en þau gera manni kleift að stýra aðgangi, uppsetningu, og í rauninni bara halda réttu striki það sem varðar viðeigandi gagnasafn.
+
+ Þessar upplýsingar sem við setjum á netið verður að gildi í færslu innan gagnasafns síðunnar sem þú slóst inn þessar upplýsingar. Færslur geta haft fjöldann allan af dálkum, þar sem gildin eru geymd.
