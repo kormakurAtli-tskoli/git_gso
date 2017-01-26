@@ -12,3 +12,5 @@ Gagnasöfn eru skipulögð og haldin við með flóknum hugbúnaði, gagnasafnskerfum, e
  Þessar upplýsingar sem við setjum á netið verður að gildi í færslu innan gagnasafns síðunnar sem þú slóst inn þessar upplýsingar. Færslur geta haft fjöldann allan af dálkum, þar sem gildin eru geymd.
 
  Allt þetta er geymt í skrám. Mögulega skrám með ólíkum skrársniðum, til dæmis ef gagnasafnið geymir bæða texta, og myndaskrár. En þó er þetta allt í skrám.
+
+Ólík skrársnið greina á milli um hvers konar skrá verið er að ræða, eins og .jpg og .png eru skráarsnið fyrir kyrrmyndir, .mp4 og .avi fyrir hreyfimyndir, og svo framvegis.
