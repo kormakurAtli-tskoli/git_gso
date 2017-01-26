@@ -10,3 +10,5 @@ Gögn eru til af mörgum togum, til dæmis stafræn gögn, rafræn gögn, og ekki má gl
 Gagnasöfn eru skipulögð og haldin við með flóknum hugbúnaði, gagnasafnskerfum, en þau gera manni kleift að stýra aðgangi, uppsetningu, og í rauninni bara halda réttu striki það sem varðar viðeigandi gagnasafn.
 
  Þessar upplýsingar sem við setjum á netið verður að gildi í færslu innan gagnasafns síðunnar sem þú slóst inn þessar upplýsingar. Færslur geta haft fjöldann allan af dálkum, þar sem gildin eru geymd.
+
+ Allt þetta er geymt í skrám. Mögulega skrám með ólíkum skrársniðum, til dæmis ef gagnasafnið geymir bæða texta, og myndaskrár. En þó er þetta allt í skrám.
