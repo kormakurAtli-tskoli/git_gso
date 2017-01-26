@@ -14,3 +14,5 @@ Gagnasöfn eru skipulögð og haldin við með flóknum hugbúnaði, gagnasafnskerfum, e
  Allt þetta er geymt í skrám. Mögulega skrám með ólíkum skrársniðum, til dæmis ef gagnasafnið geymir bæða texta, og myndaskrár. En þó er þetta allt í skrám.
 
 Ólík skrársnið greina á milli um hvers konar skrá verið er að ræða, eins og .jpg og .png eru skráarsnið fyrir kyrrmyndir, .mp4 og .avi fyrir hreyfimyndir, og svo framvegis.
+
+Gögn og gagnasöfn eru semsagt hlutir sem hafa mikið meiri áhrif á líf fólks heldur en það gerir sér í raun fyrir. Þar sem allir eiga einhver gögn, hvort þau séu stafræn, rafræn, bækur, myndaalbúm, eða hvað sem er.
